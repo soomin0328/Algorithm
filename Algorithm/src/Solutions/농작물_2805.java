@@ -1,9 +1,11 @@
+//SW Expert Academy 2805
+
 package Solutions;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class ³óÀÛ¹°_2805 {
+public class ë†ì‘ë¬¼_2805 {
 
 	public static void main(String[] args) throws FileNotFoundException {
 		// TODO Auto-generated method stub
