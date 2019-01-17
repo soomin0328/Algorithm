@@ -1,6 +1,6 @@
 //SW Expert Academy 2805
 
-package Solutions;
+package SW_Expert_Academy;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
