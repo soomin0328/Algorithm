@@ -10,7 +10,12 @@
 - [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42579?language=java)
 
 ### &#128205; 스택 큐
-> 쇠막대기 문제는 [SW Expert Academy](https://github.com/soomin0328/Algorithm/blob/master/Algorithm/src/SW_Expert_Academy/%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0%EC%9E%90%EB%A5%B4%EA%B8%B0_5432.java)와 동일합니다.
+> &#10069;&#10069; '쇠막대기' & '탑' 문제는 다른 사이트의 문제와 동일합니다.  
+<br>
+쇠막대기 [&#128279; 쇠막대기자르기_5432](https://github.com/soomin0328/Algorithm/tree/master/Algorithm/src/SW_Expert_Academy)  
+탑 [&#128279; 탑_2493](https://github.com/soomin0328/Algorithm/tree/master/Algorithm/src/Baekjoon)
+
+- [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=java)
 
 - [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583?language=java)
 
