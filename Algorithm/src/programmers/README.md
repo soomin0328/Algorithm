@@ -1,5 +1,14 @@
 ### Programmers 알고리즘 문제들.
 
+### &#128205; 해시
+- [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
+
+- [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
+
+- [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
+
+- [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42579?language=java)
+
 ### &#128205; 스택 큐
 > 쇠막대기 문제는 [SW Expert Academy](https://github.com/soomin0328/Algorithm/blob/master/Algorithm/src/SW_Expert_Academy/%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0%EC%9E%90%EB%A5%B4%EA%B8%B0_5432.java)와 동일합니다.
 
