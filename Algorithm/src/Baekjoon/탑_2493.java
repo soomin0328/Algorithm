@@ -24,7 +24,7 @@ public class 탑_2493 {
 				index.push(i);
 			} else {
 				while (!st.isEmpty()) {
-					if (num >= st.peek()) {
+					if (num > st.peek()) {
 						answer[index.peek()] = i + 1;
 						st.pop();
 						index.pop();
