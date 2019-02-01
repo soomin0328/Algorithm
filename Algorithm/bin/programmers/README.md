@@ -11,8 +11,8 @@
 
 ### &#128205; 스택 큐
 &#10069;&#10069; '쇠막대기' & '탑' 문제는 다른 사이트의 문제와 동일합니다.  
-> 쇠막대기 [&#128279; 쇠막대기자르기_5432](https://github.com/soomin0328/Algorithm/tree/master/Algorithm/src/SW_Expert_Academy)  
-> 탑 [&#128279; 탑_2493](https://github.com/soomin0328/Algorithm/tree/master/Algorithm/src/Baekjoon)
+> 쇠막대기 &#128073; [SW_Expert_Academy](https://github.com/soomin0328/Algorithm/tree/master/Algorithm/src/SW_Expert_Academy) 쇠막대기자르기_5432  
+> 탑 &#128073; [Baekjoon](https://github.com/soomin0328/Algorithm/tree/master/Algorithm/src/Baekjoon) 탑_2493
 
 - [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=java)
 
