@@ -43,8 +43,7 @@ public class 암호문3_1230 {
 			funcNum = sc.nextInt();
 
 			for (int j = 0; j < funcNum; j++) {
-				String func = sc.next();
-				switch (func) {
+				switch (sc.next()) {
 				case "I":
 					insert(sc.nextInt(), sc.nextInt());
 					break;
