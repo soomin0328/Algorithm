@@ -9,6 +9,7 @@ public class 수의새로운연산_1493 {
 	public static void main(String[] args) throws FileNotFoundException {
 		System.setIn(new FileInputStream("input/수의새로운연산_input.txt"));
 		Scanner sc = new Scanner(System.in);
+		
 		int n = sc.nextInt();
 		int[] arr = new int[2];
 		int x1 = 0, x2 = 0, y1 = 0, y2 = 0;
