@@ -6,4 +6,6 @@
 
 - [1193번 - 분수찾기](https://www.acmicpc.net/problem/1193)
 
+- [1463번 - 1로 만들기](https://www.acmicpc.net/problem/1463)
+
 - [2493번 - 탑](https://www.acmicpc.net/problem/2493)
