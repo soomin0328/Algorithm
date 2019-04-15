@@ -2,7 +2,7 @@ package Baekjoon;
 
 import java.util.Scanner;
 
-public class RGB거리 {
+public class RGB거리_1149 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
