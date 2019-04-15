@@ -1,4 +1,5 @@
 ### Baekjoon 알고리즘 문제들.
+- [1149 - RGB거리](https://www.acmicpc.net/problem/1149)
 
 - [2292번 - 벌집](https://www.acmicpc.net/problem/2292)
 
