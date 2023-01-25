@@ -1,3 +1,5 @@
+package programmers.연습문제;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

@@ -1,3 +1,5 @@
+package programmers.연습문제;
+
 public class 삼총사 {
     public static void main(String[] args) {
         solution(new int[]{-1, 1, -1, 1});

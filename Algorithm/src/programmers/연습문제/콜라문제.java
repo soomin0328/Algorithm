@@ -1,3 +1,5 @@
+package programmers.연습문제;
+
 public class 콜라문제 {
     public static void main(String[] args) {
         solution(3, 2, 10);

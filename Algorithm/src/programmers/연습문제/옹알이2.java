@@ -1,3 +1,5 @@
+package programmers.연습문제;
+
 public class 옹알이2 {
 
     public static void main(String[] args) {
